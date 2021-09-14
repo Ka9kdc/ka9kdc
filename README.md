@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- 
 - 🔭 I’m currently working on turn all the games I have build while learning to code into an aracde.
-- 🔭 I’m currently working on Data structors and Algorithoms.
+- 🔭 I’m currently working on Data structors and Algorithoms. -->
 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
