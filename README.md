@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Profolio Website: [http://kelsey-schroeder.herokuapp.com/](http://kelsey-schroeder.herokuapp.com/)
 
+Linkedin Profile: [https://www.linkedin.com/in/kelsey-m-schroeder/](https://www.linkedin.com/in/kelsey-m-schroeder/)
 <!-- 
 - 🔭 I’m currently working on turn all the games I have build while learning to code into an aracde.
 - 🔭 I’m currently working on Data structors and Algorithoms. -->
