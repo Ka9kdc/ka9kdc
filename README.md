@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Profolio Website: [https://ka9kdc.github.io/](https://ka9kdc.github.io/)
+Profolio Website: [https://ka9kdc.github.io/portfolio/](https://ka9kdc.github.io/portfolio/)
 
 Linkedin Profile: [https://www.linkedin.com/in/kelsey-m-schroeder/](https://www.linkedin.com/in/kelsey-m-schroeder/)
 <!-- 
